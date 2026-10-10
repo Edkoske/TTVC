@@ -1,0 +1,1 @@
+<?php $_GET['type']='downloads';require __DIR__.'/manage.php';

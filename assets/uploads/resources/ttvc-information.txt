@@ -1,0 +1,12 @@
+TINDIRET TECHNICAL AND VOCATIONAL COLLEGE
+
+DEMO RESOURCE - INFORMATION GUIDE
+
+This downloadable sample file is placeholder content for the local demo installation.
+For current course, admissions and fee information, contact the college directly or review the live website pages.
+
+Admissions: info@ttvc.ac.ke
+Phone: +254 700 000 000
+Location: Tindiret, Nandi County, Kenya
+
+Replace this demo resource through the administrator Downloads screen before production deployment.

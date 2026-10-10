@@ -1,0 +1,1 @@
+<?php $_GET['type']='news';require __DIR__.'/manage.php';

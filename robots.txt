@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /student/
+Disallow: /config/
+Disallow: /assets/uploads/
+Sitemap: https://www.ttvc.ac.ke/sitemap.xml

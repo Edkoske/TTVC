@@ -1,0 +1,1 @@
+<?php $_GET['type']='vacancies';require __DIR__.'/manage.php';

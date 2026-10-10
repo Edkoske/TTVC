@@ -1,0 +1,39 @@
+@media (max-width: 900px) {
+  .menu-toggle {
+    display: block;
+  }
+
+  .main-nav {
+    display: none;
+    position: absolute;
+    top: 82px;
+    left: 0;
+    right: 0;
+    align-items: stretch;
+    flex-direction: column;
+    gap: 0;
+    padding: 14px 20px 22px;
+    background: #fff;
+    box-shadow: var(--shadow);
+  }
+
+  .main-nav.open {
+    display: flex;
+  }
+
+  .main-nav > a {
+    padding: 11px 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .main-nav .button {
+    justify-content: center;
+    margin-top: 12px;
+  }
+}
+
+@media (max-width: 720px) {
+  .main-nav {
+    top: 70px;
+  }
+}

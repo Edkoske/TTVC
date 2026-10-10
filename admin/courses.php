@@ -1,0 +1,1 @@
+<?php $_GET['type']='courses';require __DIR__.'/manage.php';

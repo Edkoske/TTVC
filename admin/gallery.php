@@ -1,0 +1,1 @@
+<?php $_GET['type']='gallery';require __DIR__.'/manage.php';

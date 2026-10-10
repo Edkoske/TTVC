@@ -1,0 +1,1 @@
+<?php if (!empty($_SESSION['flash'])): $flash = $_SESSION['flash']; unset($_SESSION['flash']); ?><div class="alert <?= e(($flash['type'] ?? '') === 'error' ? 'error' : '') ?>" role="status"><?= e($flash['message'] ?? '') ?></div><?php endif; ?>
